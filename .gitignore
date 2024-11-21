@@ -42,4 +42,4 @@ testem.log
 Thumbs.db
 
 # Ignorar archivos de lock
-package-lock.json
+/package-lock.json
